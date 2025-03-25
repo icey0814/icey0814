@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icey0814&label=Profile%20views&color=0e75b6&style=flat" alt="icey0814" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=icey0814" alt="icey0814" /></a> </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=icey0814&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
 - 🔭 I’m currently working on **AquilaHUB**
 

@@ -5,9 +5,9 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=icey0814&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
-- 🔭 I’m currently working on **AquilaHUB**
+- 🔭 I’m currently working on **nothing**
 
-- 🌱 I’m currently learning **Lua, Javascript**
+- 🌱 I’m currently learning **HTML,CSS, Javascript**
 
 - 📫 How to reach me **nity0814@gmail.com**
 
